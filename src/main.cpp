@@ -2,7 +2,7 @@
 labwork2
 */
 
-#include "Menu.hpp"
+#include "../include/Menu.hpp"
 
 int main() {
     Menu a;
